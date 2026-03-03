@@ -1,0 +1,22 @@
+Core Objectives & Strategy
+Outcome Comparison: Determine if substituting SNF with Home Health negatively impacts clinical outcomes, such as 30/60/90-day readmission or admission rates.
+
+Member Profiling: Identify which members are clinically appropriate for Home Health rather than SNF.
+
+Accessibility Bias: Address the challenge that Home Health data is often skewed by provider availability rather than purely clinical need. This "accessibility" factor must be controlled in future regression analyses.
+
+The "Personal Care Fund" Initiative
+The team is evaluating a proposed Medicare benefit for members approved for SNF who prefer to receive care at home. The analysis will segment members into three groups based on claim and authorization data:
+
+Group 1: Approved for SNF and admitted to SNF.
+
+Group 2: Approved for SNF but went straight home with no SNF claim.
+
+Group 3: Approved for SNF, went home, but were admitted to SNF after a lag period.
+
+Data & Technical Requirements
+Authorization Integration: Use "MNA" (Member Not Admitted) status to identify members who did not utilize their SNF authorization.
+
+2025 Data Focus: The analysis will prioritize full-year 2025 data to ensure relevance.
+
+Granular Metrics: Analysis will include "Episode of Care" definitions, Home Health duration, and total cost comparisons across different lines of business (Commercial, Medicare, D-SNP).
